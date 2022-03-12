@@ -12,7 +12,7 @@ the proof is in the pudding
 包括 每组几个reps  做几组  怎么休息  
 
 ## Reps：  
- 
+
 主要 8-10次
 股四头肌 特殊 8-20reps
 
@@ -86,7 +86,7 @@ large body parts need more sets than smaller body parts.
  * 4组:15reps@90lbs,12reps@100lbs,10reps@110lbs,10reps@120lbs  
  * 4组：10reps@130lbs,8reps@140lbs,6reps@150lbs,6reps@160lbs  
  * 4组: 10reps@130lbs,8reps@140lbs,8reps@150lbs,6reps@160lbs  
-  
+
 
 金字塔训练法是好技术，可以在最大限度增加重量的同时，减少受伤风险。  
 
@@ -185,3 +185,109 @@ rest intervals 一般很短，45-60秒。大重量时，比如练腿时，有时
 肩和腹
 腘绳肌和小腿
 手臂
+
+
+
+## 胸和腹
+
+A. Incline Dumbell Bench Press  4 X 8-10
+
+B. Decline Barbell Bench Press 4 X 8-10
+
+C. Flat Bench Press Machine 4 X 8-10
+
+D. Low Incline Flies 4 X 8-10
+
+还缺腹部
+
+A. Crunch Machine or Crunch Machine with Leg Lifts 4 X 15-25
+
+B. Roman Chair Leg Lifts 4 X 15-25
+
+C. Rope Crunches 4 X 15-25
+
+## 股四和小腿（Beginner/Intermediate)
+
+A. Leg Extension 4 X 12-15
+
+B. Free Motion Front Squats 4 X 10-12
+
+C. Leg Press 4 X 10-12
+
+D. Hack Squats 4 X 10-12
+
+
+
+A. Standing Calf Raises 4 X 15-25
+
+B. Seated Calf Raises 4 X 15-25
+
+C. Donkey Calf Raises 4 X 15-25
+
+
+
+## 背和后肩
+
+A. Supinated Grip Lat Pulldowns 4 X 8-10
+
+B. Seated Cable Rows on Dumbbell 4 X 8-10
+
+C. Wide Grip Hammer Strength Row Machine 4 X 8-10
+
+D. Barbell Rows 4 X 8-10
+
+
+
+## 肩和腹
+
+A. Machine Lateral Raises 4 X 8-10
+
+B. Dumbbell Front Raises 4 X 8-10
+
+C. Dumbbell Upright Rows 4 X 8-10
+
+D. Machine Shoulder Press 4 X 8-10
+
+E. Pec Deck-Rear Shoulders 4 x 8-10
+
+F. Dumbbell Shrugs 4 X 8-10
+
+
+
+A. Crunch Machine or Crunch Machine with Leg Lifts 4 X 15-25
+
+B. Roman Chair Leg Lifts 4 X 15-25
+
+C. Rope Crunches 4 X 15-25
+
+## 腘绳肌和小腿
+
+A. Lying Leg Curls 4 X 8-10
+
+B. Seated Leg Curls 4 X 8-10
+
+C. Lying Single Leg Curls 4X 8-10
+
+D. Stiff Legged Deadlifts in Hack Squat Machine 4 X 12,10,8,8
+
+
+
+A. Standing Calf Raises 4 X 15-25
+
+B. Seated Calf Raises 4 X 15-25
+
+C. Donkey Calf Raises 4 X 15-25
+
+## 手臂
+
+A. Straight Bar Preacher Curls 4 X 8-10
+
+B. Incline Curls 4 X 8-10
+
+C. Rope Pushdowns 4 X 8-10
+
+D. Lying Triceps Extensions, Straight Bar 4 X 8-10
+
+E. Dumbbell Hammer Curls 4 X 8-10
+
+F. Bench Dips 4 X 8-10
