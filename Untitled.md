@@ -1,1 +1,27 @@
-![image-20220913220603729](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20220913220603729.png)
+# 健身相关
+
+## 减脂公式 简版 戴马力
+
+碳水 每kg体重 2g-3g
+
+蛋白 每kg体重 1.5g-2g
+
+容易胖的，碳水往2g靠，蛋白往2g靠
+
+容易瘦的，碳水往3g靠，蛋白质往1.5g靠
+
+然后，把碳水和蛋白的克数相加，结果乘以0.24，就等于你要吃的脂肪克数
+
+例如:
+一味容易胖的80kg肌肉男，根据上述公式，碳水往2g靠，80×2=160g，蛋白往2g靠，
+80×2=160g，脂肪就是160=160=320 再乘以0.24=77g，那一天总热量加起来就是1973大卡，大概有个500大卡的热量赤子，
+
+注意:
+1 灵活调整 掉秤太快，就加点碳水，这么吃不掉秤，一般不会出现，
+2 碳水和蛋白质的上下范围是可以突破的，比如容易胖的，大基数的，碳水可以少于2g，但不要少于1g，碳水很少的时候，蛋白质高于2g，（运动员备赛2.5g 3g大有人在），前提是确定尿酸不超标，但不建议所有人长期吃超过2g蛋白质，
+3 脂肪保持这个摄入量，1不会妨碍你减脂，2也不用担心吃少了，维生素缺乏，掉头发，免疫力下降，
+
+
+nature正刊 Addition of aerobic exercise to dietary weight loss preferentially reduces abdominal adipocyte size .  三个对照组 第一组只管住嘴，第二组管住嘴同时每周做3次有氧，每次20分钟，50%最大心率，第三组和第二组运动内容一样，只是稍微增加点运动强度，75%最大心率，这三组的每天热量赤字都是400大卡，5个月后，只有第一组肚子脂肪没变少，其他两组肚子脂肪都减少了，结论是 减脂期管住了嘴再做点小有氧，就能优先瘦肚子，
+
+另一篇文献 Additon of Aerobic Exercise to a Weigh Loss Program Increases BMD,with an Associated Reduction in Inflammation in Overweight Postmenopausal Women . 发现 超重的中老年妇女减脂期加入有氧，可以抗炎，减少骨质流失，
