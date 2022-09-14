@@ -25,3 +25,27 @@
 nature正刊 Addition of aerobic exercise to dietary weight loss preferentially reduces abdominal adipocyte size .  三个对照组 第一组只管住嘴，第二组管住嘴同时每周做3次有氧，每次20分钟，50%最大心率，第三组和第二组运动内容一样，只是稍微增加点运动强度，75%最大心率，这三组的每天热量赤字都是400大卡，5个月后，只有第一组肚子脂肪没变少，其他两组肚子脂肪都减少了，结论是 减脂期管住了嘴再做点小有氧，就能优先瘦肚子，
 
 另一篇文献 Additon of Aerobic Exercise to a Weigh Loss Program Increases BMD,with an Associated Reduction in Inflammation in Overweight Postmenopausal Women . 发现 超重的中老年妇女减脂期加入有氧，可以抗炎，减少骨质流失，
+
+
+
+来 算一下 体重77kg  碳水154g  蛋白154g 脂肪74g  每天总热量摄入就是 1898   基础代谢是1694 运动消耗700 总消耗 2394    每天热量亏空496 完美。
+
+
+
+有一种说法 一次摄入蛋白质不超过体重×0.4   77×0.4=30.8
+
+
+
+早   鸡蛋4个  蛋白24g  脂肪17g   素包子3个  蛋白10g  脂肪3g  碳水42g     共  蛋白 34g   脂肪20g  碳水42g
+
+10点   鸡胸 或 蛋白粉
+
+
+
+中12点  蛋白 26.4g   脂肪 4.7g  碳水 47.3g     热量  326kcal         把这个碳水  放到 下午练前
+
+14点 鸡胸 或 蛋白粉
+
+下午 四点午饭的碳水 鸡胸或蛋白粉
+
+练后  鸡胸 蛋白24g  碳水4g  白面包2片  蛋白9.6g  脂肪4.5g 碳水47.4g   共   蛋白  34g   脂肪4.5g  碳水51g
