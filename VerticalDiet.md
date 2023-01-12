@@ -53,3 +53,73 @@ Bison(野牛肉),  纽约客（New York Strip 下腰肉），上后腰肉（top 
 
 
 
+Your diet should be simple,sensible,adn sustainable
+
+
+
+Your diet should become a lifestyle,not something you go on and off
+
+
+
+You are not what you eat,you are what you can digest and absorb
+
+
+
+Total Daily Energy Intake - TDEI(Calories In) and Total Daily Energy Expenditure - TDEE(Calories out) are both influenced by many different factors such as Food Compostion,Macronutrient Types,Micronutrients,Hormones,Sleep And Daily Activity.
+
+
+
+血检，建议查：
+
+1 血脂 （HDL高密度脂蛋白,LDL低密度脂蛋白,TRIGLYCERIDES甘油三酯）
+
+2 CBC (HEMATOCRIT, HEMOGLOBIN) 红细胞压积，血红蛋白
+
+3 HA1C
+
+4 C-REACTIVE PROTEIN (CRP)
+
+5 IGF1
+
+6 THYROID (TSH, FREE T3, FREE T4, REVERSE T3)
+
+7 METABOLIC PROFILE (BUN, CREATININE, AST, ALT, GLUCOSE)
+
+8 TESTOSTERONE
+
+9 FREE TESTOSTERONE
+
+10 ESTROGEN
+
+11 SHBG (SEX HORMONE BINDING GLOBULIN)
+
+12 URINALYSIS
+
+13 LH/FSH
+
+14 PSA (PROSTATE SPECIFIC ANTIGEN)
+
+15 IRON
+
+16 VITAMIN D-25 HYDROXY
+
+17 PROLACTIN
+
+18 CORTISOL
+
+
+
+AST/ALT:观察肝脏酶是很重要的。健康的肝脏可以改善新陈代谢和甲状腺功能。这些酶是炎症的指示，而不是肝功能的测量。举重的人可能会出现轻微的sat/alt升高，这是常见的，不一定是由于肝功能差
+
+
+
+25-HYDROXYVITAMIN D(25(OH)D): 
+
+
+
+血这部分 先跳过
+
+
+
+
+
