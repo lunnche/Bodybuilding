@@ -1814,4 +1814,40 @@ T杠划船是背部训练的最佳动作。很多人练不好，腰疼，肌肉�
 
 
 
-u
+## 克里斯 三分化训练计划
+
+pull day 1：
+
+对cbum来说，背和二头是他的弱项，他会摄入一些咖啡因，多吃些练前餐，往死里干，练后吃些寿司🍣
+
+，反正就是把强度拉满，
+
+1. Pull Downs
+
+   
+
+
+
+Push Day 1：
+
+1. Barbell Press (Incline or flat) 更倾向于上斜，但有时也会做平板
+
+   a. 2 heavy sets 5-8 reps, one back off set aim for 10-12 reps   退后组
+
+2. Alternated dumbbell shoulder press 哑铃交替推肩，单臂会让你更加专注单侧发力并需要更多核心去稳定，且单臂交替推肩可以做更多次数，
+
+   a. 3 working sets higher volume, 10-12 reps
+
+3. Any form of chest flies super set with triceps extensions 哑铃飞鸟和三头臂屈伸超级组，飞鸟3组，臂屈伸4组
+
+​        a. 3 sets 10-12 reps for flies
+
+​        b. 4 sets 7-10 reps for extensions
+
+4. lateral raises 侧平举
+
+​         a. 4 sets of 10-12 reps keep rest time under 1 minute
+
+5. Dips (try and stay upright keep tension on triceps over chest)
+
+   a. 3 sets to failure
