@@ -1822,7 +1822,27 @@ pull day 1：
 
 ，反正就是把强度拉满，
 
-1. Pull Downs
+1. Pull Downs 克里斯总是以高位下拉开始，它可以很好地将你整个背阔肌斜方充血，拉伸你的整个脊柱，以轻重量开始，去感受肌肉的发力
+
+   a. 2 warm up sets, then 3 working sets 8-10 ,drop set last set 
+
+   2. Bent over rows 杠铃划船对于背部厚度是最好的动作，但要专注于动作，不要来回摇晃借力，最好在顶部略微停顿，选好重量，重量太大你就会借力摇晃，那样只是你的下背和腘绳以及臀在发力，而不是背。
+
+      a. 2 warm up sets, 2 heavy sets of 6-8 reps, one back off set 10-12 reps
+
+   3. Slight incline seated dumbbell curls 低角度上斜哑铃弯举，轻重量，专著收缩
+
+   ​        a. 4 working sets 10-12 reps
+
+   4. Pull Ups 二头充血的情况下，引体是很难的，上助力带，6-8次力竭，没有太多容量，
+
+   ​        a. 3 sets to failure
+
+   5. EZ bar curls   Ez杆弯举，计时40秒，开始弯举，注意力集中在肌肉上，不要停止，非常轻的重量，非常长的时间，
+
+      a. 2 sets 8-10 reps then 2 sets of 40 seconds sets
+
+   
 
    
 
@@ -1851,3 +1871,15 @@ Push Day 1：
 5. Dips (try and stay upright keep tension on triceps over chest)
 
    a. 3 sets to failure
+
+
+
+Legs Day 1：
+
+1. Lunges:
+
+   a. 3 warm up sets, 3 working sets weighted 12-15 steps each leg
+
+   2. RDL's or Deadlift
+
+      a. 2 warm up sets, 3 working sets 
