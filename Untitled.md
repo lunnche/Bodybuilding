@@ -1816,36 +1816,6 @@ T杠划船是背部训练的最佳动作。很多人练不好，腰疼，肌肉�
 
 ## 克里斯 三分化训练计划
 
-pull day 1：
-
-对cbum来说，背和二头是他的弱项，他会摄入一些咖啡因，多吃些练前餐，往死里干，练后吃些寿司🍣
-
-，反正就是把强度拉满，
-
-1. Pull Downs 克里斯总是以高位下拉开始，它可以很好地将你整个背阔肌斜方充血，拉伸你的整个脊柱，以轻重量开始，去感受肌肉的发力
-
-   a. 2 warm up sets, then 3 working sets 8-10 ,drop set last set 
-
-   2. Bent over rows 杠铃划船对于背部厚度是最好的动作，但要专注于动作，不要来回摇晃借力，最好在顶部略微停顿，选好重量，重量太大你就会借力摇晃，那样只是你的下背和腘绳以及臀在发力，而不是背。
-
-      a. 2 warm up sets, 2 heavy sets of 6-8 reps, one back off set 10-12 reps
-
-   3. Slight incline seated dumbbell curls 低角度上斜哑铃弯举，轻重量，专著收缩
-
-   ​        a. 4 working sets 10-12 reps
-
-   4. Pull Ups 二头充血的情况下，引体是很难的，上助力带，6-8次力竭，没有太多容量，
-
-   ​        a. 3 sets to failure
-
-   5. EZ bar curls   Ez杆弯举，计时40秒，开始弯举，注意力集中在肌肉上，不要停止，非常轻的重量，非常长的时间，
-
-      a. 2 sets 8-10 reps then 2 sets of 40 seconds sets
-
-   
-
-   
-
 
 
 Push Day 1：
@@ -1874,12 +1844,158 @@ Push Day 1：
 
 
 
+
+
+pull day 1：
+
+对cbum来说，背和二头是他的弱项，他会摄入一些咖啡因，多吃些练前餐，往死里干，练后吃些寿司🍣
+
+，反正就是把强度拉满，
+
+1. Pull Downs 克里斯总是以高位下拉开始，它可以很好地将你整个背阔肌斜方充血，拉伸你的整个脊柱，以轻重量开始，去感受肌肉的发力
+
+   a. 2 warm up sets, then 3 working sets 8-10 ,drop set last set 
+
+   2. Bent over rows 杠铃划船对于背部厚度是最好的动作，但要专注于动作，不要来回摇晃借力，最好在顶部略微停顿，选好重量，重量太大你就会借力摇晃，那样只是你的下背和腘绳以及臀在发力，而不是背。
+
+      a. 2 warm up sets, 2 heavy sets of 6-8 reps, one back off set 10-12 reps
+
+   3. Slight incline seated dumbbell curls 低角度上斜哑铃弯举，轻重量，专著收缩
+
+   ​        a. 4 working sets 10-12 reps
+
+   4. Pull Ups 二头充血的情况下，引体是很难的，上助力带，6-8次力竭，没有太多容量，
+
+   ​        a. 3 sets to failure
+
+   5. EZ bar curls   Ez杆弯举，计时40秒，开始弯举，注意力集中在肌肉上，不要停止，非常轻的重量，非常长的时间，
+
+      a. 2 sets 8-10 reps then 2 sets of 40 seconds sets
+
+   
+
+
+
+
 Legs Day 1：
 
-1. Lunges:
+1. Lunges: 练腿日会做非常长时间的热身，差不多20分钟，一堆高容量动作来充血，
 
-   a. 3 warm up sets, 3 working sets weighted 12-15 steps each leg
+   a. 3 warm up sets, 3 working sets weighted 12-15 steps each leg 箭步蹲从自重开始，热身膝关节和髋关节。然后可以把哑铃举到头附近也可以双手拿着。
 
-   2. RDL's or Deadlift
+   2. RDL's or Deadlift 大重量硬拉或罗马尼亚硬拉，对克里斯来说，不做硬拉会让腘绳和臀部退步不少
 
-      a. 2 warm up sets, 3 working sets 
+      a. 2 warm up sets, 3 working sets 10-12 reps，6-8 reps if deadlift
+      
+   3. Hips Thrusts or glute kick backs
+   
+   ​       a. 3 working sets 10-12 reps
+   
+   4. Seated calf raises superset last 4 sets 没到训练的结尾就把提踵放进来，因为想专注提升小腿，而不是每次顺便带一带，这次坐姿提踵，下次站姿提踵，克里斯觉得坐姿感受度更好，一共做6组，后4组和下一个动作形成超级组
+   
+      a. 6 sets of 10-12 reps
+   
+   5. Hamstring curls 俯卧腿弯举
+   
+   ​       a. 2 sets 8-10 reps then 2 sets of 40 second sets
+   
+   
+   
+   可以在第一个循环后休息一天，也可以在拉日前休息一天，因为背是克里斯的弱项
+   
+   
+   
+   push day2
+   
+   1. Close Grip Flat Bench Press 窄距卧推，专注于三头
+   
+      a. 3 working sets of 8-10 reps
+   
+   2. Standing Barbell Press 站姿杠铃实力推坐姿的杠铃推肩可以做更大重量，但上胸会更多参与，而且站姿要求核心稳定，这个动作相对更能提高运动表现，
+   
+      a. 3 woking sets of 10-12 reps
+   
+   3. Pec Deck Flies 蝴蝶机夹胸
+   
+      a. 1 set 8-10 reps then 2 sets of 40 second sets
+   
+   4. Overhead Triceps Movement 三头过头臂屈伸，一周内至少有一个动作是针对长头的动作，对三头的拉伸绝对是让你三头疯长得要素之一
+   
+      a. 3 sets of 10-12 reps
+   
+   5. Lateral Raises super set with some form of push ups  侧平举和俯卧撑形成超级组，克里斯做俯卧撑通常会在一个平板上可以握住的那种，就像窄距卧推一样，在撑起的时候胸肌会有更强烈的收缩感，在握住之后你需要往里推
+   
+      a. 4 sets of 10-12 reps for LR
+   
+      b. 3 sets to failure for push ups
+   
+      
+   
+      pull day2
+   
+      1. Pull Ups 目的是让背部预热充点血，这个动作和架上拉一起热身，引体是个技术动作，因为无论你做多少高位下拉，你高位下拉的力量都转化不到引体上（其实因为这俩动作模式不一样，一个开链，一个闭链），拉一组引体，接着弯腰做架上拉，
+   
+         a. 3 sets to get blood moving
+   
+           (while warming up with rack pulls)
+   
+      2. Rack Pulls  架上拉前三组和引体一起做，正式组只有两组，克里斯不想给下背太大压力，
+   
+         a. 3 warm up sets, 2 working sets 8-10 reps
+   
+      3. Hammer Curls 锤式弯举   一周内反握弯举，锤式弯举交替着来，锤式可以更好地练肱肌，这可能是菲尔西斯手臂强的秘密
+   
+         a. 3 sets of 10-12 reps
+   
+      4. Reverse Grip Row OR Pull Down  反握划船或高位下拉，这个动作不能用过大的重量，有受伤的风险，你需要找到一个对的轨迹让你的背去主导发力而不是二头，比如反握下拉，你需要把注意力放到你的手肘，肘关节角度保持住，避免二头过多发力，然后保持身体直立，而不是用二头主导拉到脸部，
+   
+         a. 3 sets 10-12 reps
+   
+      5. Cable Curls 绳索锤式弯举，绳索可以让目标肌肉有持续张力，
+   
+         a. 3 sets 10-12 reps
+   
+      6. Cable Rows
+   
+         a. 2 drop sets total of 20 reps each
+   
+      7. Dumbbell Curls 只做一组，6次，做到快力竭，递减，再力竭，做上4小组
+   
+         a. Run the rack to failure
+
+
+
+leg day 2：
+
+1. Squats
+
+   a. 3 warm up sets, 3 sets 8-10 reps,1 set 4-6 reps  3组热身  先做正式组，再做一组大重量组
+
+2. Leg Press superset calves    腿举和小腿超级组，克里斯把小腿放训练前半部分是为了加强小腿，
+
+   a. 2 sets 40 second sets for leg press
+
+   b. 2 sets calf raises to failure
+
+3. Hip Adductors  髋内收，克里斯感觉深蹲的时候有点膝盖内扣，大腿根肌力弱，
+
+   a. 4 sets 10-12 reps
+
+4. Standing Calf 站姿提踵 ，做4组10-12次，然后弹震做几次到力竭，刚开始正常做，底部充分拉伸开，顶峰的时候挤压收缩，然后没劲的时候在顶部停顿然后爆发力的弹震再次做到力竭
+
+   a. 4 sets 10-12 reps then bounce reps to failure
+
+5. Quad Extensions 腿屈伸，然后2组三合递减组
+
+   a. 2 sets 10-12 reps then 2 sets triple drop set
+
+
+
+
+
+最好的计划是最适合你并且你从中最享受的计划，而不是照搬某位冠军的计划
+
+
+
+
+
