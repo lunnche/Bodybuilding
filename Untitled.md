@@ -2118,3 +2118,7 @@ https://www.bizcalcs.com/body-fat-navy/
 7 袖长 手臂自然下垂 从肩端点垂直测量至虎口水平处
 
 8 裤长 双脚并拢站立 从平时穿裤子的位置量到脚底板水平处 
+
+
+
+Hahah 
