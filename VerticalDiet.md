@@ -2,7 +2,7 @@
 
 
 
-红肉（反刍动物）：血基质铁 ，维生素B，锌，硒，肌酸，健康脂肪
+红肉（反刍动物）：富含 血基质铁 ，维生素B，锌，硒，肌酸，健康脂肪
 
 Bison(野牛肉),  纽约客（New York Strip 下腰肉），上后腰肉（top sirloin）,瘦碎牛肉（lean ground Beef），
 
@@ -53,15 +53,9 @@ Bison(野牛肉),  纽约客（New York Strip 下腰肉），上后腰肉（top 
 
 
 
-Your diet should be simple,sensible,and sustainable
+你的饮食方式应该简单、合理，易于坚持，你的饮食方式应该是终生的生活方式而不是一时兴起，
 
-
-
-Your diet should become a lifestyle,not something you go on and off
-
-
-
-You are not what you eat,you are what you can digest and absorb
+你不是你吃下的东西，你是你吃下且能消化和吸收的东西
 
 
 
