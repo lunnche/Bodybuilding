@@ -49,7 +49,7 @@ Bison(野牛肉),  纽约客（New York Strip 下腰肉），上后腰肉（top 
 
 3 从附录C购物清单，看看要买什么
 
-4 附录D检查单跟踪你的执行情况，或使用"My Vertical Tracker"app
+4 附录D检查单跟踪你的执行情况
 
 
 
@@ -66,6 +66,12 @@ You are not what you eat,you are what you can digest and absorb
 
 
 Total Daily Energy Intake - TDEI(Calories In) and Total Daily Energy Expenditure - TDEE(Calories out) are both influenced by many different factors such as Food Compostion,Macronutrient Types,Micronutrients,Hormones,Sleep And Daily Activity.
+
+
+
+## 血检
+
+血检发现问题，通过改善睡眠、减肥、健康饮食和定期锻炼可以解决其中大部分。
 
 
 
@@ -109,15 +115,59 @@ Total Daily Energy Intake - TDEI(Calories In) and Total Daily Energy Expenditure
 
 
 
+![image-20230410144410428](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410144410428.png)
+
+
+
+
+
 AST/ALT:观察肝脏酶是很重要的。健康的肝脏可以改善新陈代谢和甲状腺功能。这些酶是炎症的指示，而不是肝功能的测量。举重的人可能会出现轻微的sat/alt升高，这是常见的，不一定是由于肝功能差
 
 
 
-25-HYDROXYVITAMIN D(25(OH)D): 
+25-HYDROXYVITAMIN D(25(OH)D): 目前的标准建议维持血清25(OH)D水平75 nmol/L。25(OH)D，也称为钙二醇，在肾脏中通过甲状旁腺激素转化为维生素D。维生素D的活性形式，骨化三醇，在体内起着激素的作用。肾功能、甲状旁腺生成、维生素D在肠道中的吸收以及其他许多方面的任何损害都可能造成一种环境，影响身体的许多其他因素，包括骨骼健康、睾酮水平、甲状腺功能等
 
 
 
-血这部分 先跳过
+LIPID PANEL：血脂板测试？
+
+了解你的身体在脂质分布上的位置是很重要的。仅仅知道总胆固醇是不够的。你需要评估这个值的所有成分包括低密度脂蛋白，高密度脂蛋白和甘油三酯。总胆固醇得分应低于200毫克/分升。低密度脂蛋白要保持在100毫克/分升以下(L代表低)HDL，我们希望保持高&gt;60mg/dL (H为高)。甘油三酯我们希望保持在150mg/dL。适当的营养和体育活动有助于将这些值维持在最佳范围内。
+
+
+
+总胆固醇和/或低密度脂蛋白升高并不是心血管疾病的最佳预测因子。你的甘油三酯:高密度脂蛋白比率是一个更好的指标，应该保持在低于2:1的比率。这些数字加上升高的炎症标志物，如同型半胱氨酸和c反应蛋白，与CVD高度相关。最终，冠状动脉钙化(CAC)扫描将提供更明确的CVD诊断。CAC扫描已经变得非常便宜和普遍可用。
+
+
+
+PROLACTIN：催乳激素；泌乳刺激素
+
+催乳素升高可能导致勃起功能障碍和抑郁。我们看到它随着雌激素水平的升高而升高，但最常见的是由于使用Trenbolone和/或deca durabolin(“deca dick”)而升高。向你的医生索要卡麦角林(dostinex)的处方，以降低催乳素。典型剂量为0.5mg 2次/周，持续4周。在好市多买处方药，那里的价格只有其他药店的一半。
+
+
+
+HEMOGLOBIN/HEMATOCRIT/RBC：血红蛋白、红血球？之类
+
+这些指标可能因睡眠呼吸暂停和/或使用睾酮而升高，更有可能是由于使用Equipoise。通常推荐的解决方案是献血(采血)。我们附上了一段来自Rouzier医生的视频，讨论了在考虑放血时，还需要考虑你的血小板和铁蛋白(储存的铁)。如果这些指标处于正常范围的低端，那么你应该考虑不要献血，因为它可能会导致疲劳、虚弱和焦虑。
+
+
+
+TESTOSTERONE/FREE TESTOSTERONE：睾酮、游离睾酮
+
+低睾酮(性腺功能减退)伴随一种或多种低睾酮症状，如勃起功能障碍、疲劳、抑郁、脂肪量增加或肌肉量减少，应予以处理。参见“睾酮快速修复工具包”，了解自然提高睾酮水平的方法。如果不能充分自然地提高睾酮水平和/或缓解症状，则可能需要睾酮替代治疗。参见“激素替代”。以获取更多信息。向你的医生咨询。
+
+
+
+GLUCOSE/HbA1C/INSULIN：葡萄糖、糖化血红蛋白、胰岛素
+
+我们将这些结合起来，因为总的来说，它们是胰岛素敏感性/抵抗的良好标记。如果你空腹血糖升高(我们希望保持在100以下)或胰岛素升高或糖化血红蛋白升高(3个月平均血糖)，那么你可能正在经历胰岛素抵抗，这是许多健康问题的高度预测，如脂肪肝、糖尿病和心血管疾病。这些数字应得到严格控制。参见“高血糖快速修复包”。
+
+
+
+THYROID (T4, T3, Reverse T3, TSH)：甲状腺相关。。。
+
+甲状腺功能低下会减慢新陈代谢，增加胆固醇，增加血压，抑制免疫系统。适当的甲状腺检查应包括:游离T4，游离T3, TSH和反向T3。
+
+
 
 
 ## 睡眠
@@ -2795,3 +2845,344 @@ HCG(每隔一天1000 IU，持续20天)
 1 杯（240ml） 醋
 
  2 tbsp（15ml）洋葱 粗切
+
+1 胡萝卜去皮，粗切
+
+2 芹菜条，粗切
+
+3 欧芹
+
+
+
+操作：
+
+1 将鸡肉切成块，放入大锅中，加入水、醋和所有蔬菜(欧芹除外)。煮沸，除去浮在上面的浮渣。
+
+2 转小火，盖上盖子焖24小时。高汤煮的时间越长，味道就越浓郁。
+
+3 在完成前10分钟加入欧芹。
+
+4 把高汤放凉，过滤，储存在冰箱里，直到脂肪上升到顶部并凝结。
+
+5 撇去脂肪，储存在冰箱或冰柜的有盖容器中。
+
+
+
+## 奇怪单位换算
+
+
+
+一、tbsp体积换算： 1tbsp=3tsp=15毫升。 tsp体积换算：1tsp=5毫升。
+
+二、杯(CUP）的常用换算单位：
+
+1cup＝250ML 1cup＝150g 1cup＝8盎司 1盎司＝28.3495g 1盎司= 30ml
+
+1 品脱=2 cups 1夸脱＝4 cups 1加仑＝16 cups
+
+三、大汤池(TBSP)的常用换算单位：
+
+1Tbsp＝15ML   1/2Tbsp=7.5ML
+
+四、茶匙(TSP)的常用换算单位：
+
+1tsp=5ML   1/2tsp=2.5ML
+
+五、面粉的常用换算单位：
+
+中筋面粉1 cup＝130g  高筋面粉1 cup＝135g   全麦面粉1 cup＝128g
+
+六、糖的常用换算单位：
+
+细砂糖1cup＝180g 粗砂糖1cup＝200g 糖粉1cup＝130g
+
+黄油的常用换算单位：
+
+1 cup=227g  1 tbsp=14.2g 1 tsp=5g
+
+七、盐的常用换算单位：
+
+1tbsp=15g  1tsp=5g
+
+八、糖浆、蜂蜜的常用换算单位：
+
+1 tbsp=30g 1 tsp=10g 1 cup= 480g
+
+
+
+
+
+
+
+
+
+## monster mash（烤版）
+
+配料：
+
+8 盎司（227克？）   碎红肉
+
+1 杯 （不知道怎么换算了） 熟米饭
+
+3/4 杯    鸡汤/骨汤
+
+1杯   嫩菠菜（可选）
+
+3 盎司 甜椒（可选）
+
+
+
+操作：
+
+\1. 烤碎牛肉至熟透。
+
+\2. 在炉子上煮甜椒。
+
+3.变软后，加入鸡汤和菠菜。
+
+\4. 煮沸，菠菜煮熟后，放入碗中。
+
+\5. 加入米饭和烤肉拌匀。
+
+\6. 适量加盐。
+
+\7. 享受吧!
+
+
+
+## buttery salmon mash
+
+配料
+
+1 磅   wild salmon filet
+
+2 杯 鸡汤
+
+1/4 杯  草饲黄油软化
+
+1/2 tsp 醋
+
+
+
+操作：
+
+烤箱调至325度
+
+\1. 在小平底锅/烤盘上涂黄油
+
+
+
+\2. 把鱼皮朝下放在盘子里
+
+
+
+3.将高汤煮沸，倒在鱼片上，确保液体完全覆盖鱼片。
+
+
+
+\4. 放入烤箱，根据鱼片的厚度烤6-10分钟。小心不要煮过头。
+
+
+
+\5. 当里面有点熟的时候就从烤箱里拿出来。
+
+
+
+把鱼片放在浅盘中，盖上盖子。
+
+
+
+\6. 同时，将高汤倒入锅中，煮至半杯。
+
+
+
+\7. 从炉子上拿出来，每次加入一汤匙黄油，用力搅拌。
+
+
+
+\8. 加醋。如果需要，可以加盐。
+
+
+
+\9. 将菲力放入碗中，加入几勺高汤。
+
+
+
+\10. 如果需要，可以选择碳水化合物。
+
+
+
+
+
+还有些菜单  不整了。。。
+
+
+
+
+
+## 附录A 计算BMR
+
+1 计算BMR (basal metabolic rate 基础代谢率)
+
+https://www.bmi-calculator.net/bmr-calculator/
+
+
+
+2 BMR乘以活动水平系数
+
+**Harris Benedict** 公式：
+
+为了确定你每天的总热量需求，将你的BMR乘以适当的活动因子，如下所示:
+
+如果你久坐不动(很少或不运动):卡路里计算= BMR x 1.2
+
+如果你是轻度运动(轻度运动/运动1-3天/周):卡路里计算= BMR x 1.375
+
+如果你是适度运动(适度运动/运动3-5天/周):热量计算= BMR x 1.55
+
+如果你非常活跃(每周6-7天的剧烈运动/运动):卡路里计算= BMR x 1.725
+
+如果你非常活跃(非常艰苦的运动/运动和体力工作或2次的训练):卡路里计算= BMR x 1.9
+
+
+
+3 选择目标
+
+a.减肥-(从BMR x活动水平中减去500卡路里)
+
+b.保持体重-身体重组 使用与BMR x活动水平相同的数字并监测体重。按需调整。
+
+a.增加体重- (BMR x活动量增加500卡路里)
+
+
+
+*这些仅仅是帮助你开始的估计。实际卡路里需要根据你的结果不断调整。如果你需要更准确的估计，你可以咨询theverticaldiet.com，寻求指导帮助。
+
+
+
+## 附录B 饮食范例
+
+
+
+![image-20230410140628355](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140628355.png)
+
+
+
+![image-20230410140654188](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140654188.png)
+
+
+
+1500卡路里
+
+![image-20230410140717973](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140717973.png)
+
+![image-20230410140730533](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140730533.png)
+
+1750卡路里
+
+![image-20230410140752784](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140752784.png)
+
+![image-20230410140808869](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140808869.png)
+
+2000卡路里
+
+![image-20230410140830795](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140830795.png)
+
+![image-20230410140844427](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410140844427.png)
+
+ 不整了。。。
+
+
+
+## 附录c 购物清单
+
+蛋白：
+
+北美野牛肉
+
+牛排
+
+碎牛肉
+
+三文鱼（或多脂鱼，沙丁鱼，虹鳟鱼）
+
+鸡蛋
+
+牛奶
+
+酸奶
+
+奶酪
+
+鸡
+
+培根
+
+
+
+碳水、水果、蔬菜
+
+菠菜
+
+生胡萝卜
+
+红薯
+
+土豆
+
+扁桃仁 杏仁（？）
+
+橙子（或蓝莓、树莓、草莓、西瓜）
+
+橙汁
+
+蔓越莓汁
+
+米饭
+
+
+
+其他：
+
+牛油
+
+骨汤（鸡汤）
+
+粉盐
+
+Redmond Real Salt
+
+碘盐
+
+草饲黄油(Kerrygold)
+
+
+
+补剂
+
+维生素D3
+
+鱼肝油
+
+磷虾油
+
+镁
+
+牛磺熊去氧胆酸(Tauro Ursodesoxy Cholic Acid) （可选）
+
+
+
+![image-20230410142017413](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410142017413.png)
+
+
+
+
+
+![image-20230410142204600](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410142204600.png)
+
+
+
+![image-20230410142227359](https://raw.githubusercontent.com/lunnche/picgo-image/main/image-20230410142227359.png)
+
+
+
