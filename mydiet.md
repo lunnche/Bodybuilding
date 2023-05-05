@@ -8,7 +8,7 @@ https://www.bmi-calculator.net/bmr-calculator/
 
 身高 5 ft 9 in
 
-体重  174 lbs
+体重  176 lbs
 
 年龄  38
 
@@ -18,15 +18,19 @@ https://www.bmi-calculator.net/bmr-calculator/
 
 ***
 
-BMR     1795 kcal
+BMR     1805 kcal
 
-Total daily calorie needs:    3096  kcal
+Total daily calorie needs:    2798  kcal
 
 目标  减脂
 
-每日摄入卡路里：   2600 kcal
+训练日每日摄入卡路里：   2298 kcal
 
+每日摄入蛋白：160g  
 
+脂肪：53g
+
+碳水= 2298-160x4-53x9=1181kcal  295g 碳水
 
 
 
